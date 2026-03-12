@@ -11,7 +11,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "sass-build: sass --no-source-map scss:css"
+    "sass-build": "sass --no-source-map scss:css"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
